@@ -1,0 +1,8 @@
+C:\Users\kotia\source\repos\Space_App_Test\Space_App_Test\bin\Debug\Space_App_Test.exe.config
+C:\Users\kotia\source\repos\Space_App_Test\Space_App_Test\bin\Debug\Space_App_Test.exe
+C:\Users\kotia\source\repos\Space_App_Test\Space_App_Test\bin\Debug\Space_App_Test.pdb
+C:\Users\kotia\source\repos\Space_App_Test\Space_App_Test\obj\Debug\Space_App_Test.csproj.AssemblyReference.cache
+C:\Users\kotia\source\repos\Space_App_Test\Space_App_Test\obj\Debug\Space_App_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\kotia\source\repos\Space_App_Test\Space_App_Test\obj\Debug\Space_App_Test.csproj.CoreCompileInputs.cache
+C:\Users\kotia\source\repos\Space_App_Test\Space_App_Test\obj\Debug\Space_App_Test.exe
+C:\Users\kotia\source\repos\Space_App_Test\Space_App_Test\obj\Debug\Space_App_Test.pdb
